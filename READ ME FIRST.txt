@@ -1,0 +1,14 @@
+ Project name is 
+THE BLOOD ALLIANCE 
+This is a blood donor search website made by 
+
+MANSI JAIN 
+
+
+bbms.sql file is our database file .
+form.php is BECOME DONOR redirects further to insertit.php
+search.php is SEARCH DONOR  redirects further to list.php
+about.php is ABOUT US
+contact.php is CONTACT US 
+why_become_donor.php is WHY BECOME DONOR?
+blood_and_you.php is BLOOD AND YOU 
